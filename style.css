@@ -14,8 +14,8 @@ body {
 }
 
 .gif {
-  height: 700px;
-  width: 500px;
+  height: 500px;
+  width: 400px;
 }
 
 h2 {
@@ -53,6 +53,7 @@ button:nth-child(2) {
   background: white;
   color: #e94d58;
 }
+
 
 
 
